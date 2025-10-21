@@ -1,7 +1,9 @@
-# swRepo
+
+# openSourceWeek8
+
 
 # 교육
-## 1) 대학 전공과목 성적 분포
+## 1) [대학 전공과목 성적 분포](https://m.academyinfo.go.kr/main/main0780/selectListLink.do#dialogDisclosureCategory)
 
 | 항목 | 값 |
 |---|---|
